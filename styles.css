@@ -1,5 +1,19 @@
 .image {
-    width: 100px;
-    height: 100px;
+    width: 400px;
+    height: 400px;
     ;
+}
+
+* {
+    background-color: #232323;
+    color: #FFF;
+}
+
+.container {
+    background-color: #232323;
+}
+
+.secondContainer {
+    display: block;
+    justify-content: center;
 }
